@@ -134,7 +134,6 @@ public_html/
 ├── login.php               — вход в систему
 ├── logout.php              — выход
 ├── material.php            — страница конкретного материала
-├── materials.php           — склад материалов
 ├── notifications.php       — уведомления (что нужно заказать)
 ├── register.php            — регистрация
 ├── reports.php             — отчёты (для преподавателя и администратора)
